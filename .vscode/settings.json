@@ -1,0 +1,11 @@
+{
+  "background.fullscreen": {
+    "images": [
+      "https://images5.fanpop.com/image/photos/27700000/lighthouse-windows-7-vista-and-xp-picks-27753251-1024-768.jpg"
+    ],
+    "opacity": 0.87,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  }
+}
